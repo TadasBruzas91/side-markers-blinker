@@ -1,0 +1,2 @@
+# side-markers-blinker
+Trailer side markers blink with blinker, but not with hazzard lights.
