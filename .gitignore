@@ -27,6 +27,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+*.html
 
 # Export Freecad files
 *.pyc
